@@ -1,0 +1,15 @@
+C:\Users\braya\source\repos\Capas+DDDFlex\Infra.DataAccess\bin\Debug\net8.0\Infra.DataAccess.deps.json
+C:\Users\braya\source\repos\Capas+DDDFlex\Infra.DataAccess\bin\Debug\net8.0\Infra.DataAccess.dll
+C:\Users\braya\source\repos\Capas+DDDFlex\Infra.DataAccess\bin\Debug\net8.0\Infra.DataAccess.pdb
+C:\Users\braya\source\repos\Capas+DDDFlex\Infra.DataAccess\bin\Debug\net8.0\Domain.Model.dll
+C:\Users\braya\source\repos\Capas+DDDFlex\Infra.DataAccess\bin\Debug\net8.0\Domain.Model.pdb
+C:\Users\braya\source\repos\Capas+DDDFlex\Infra.DataAccess\obj\Debug\net8.0\Infra.DataAccess.csproj.AssemblyReference.cache
+C:\Users\braya\source\repos\Capas+DDDFlex\Infra.DataAccess\obj\Debug\net8.0\Infra.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braya\source\repos\Capas+DDDFlex\Infra.DataAccess\obj\Debug\net8.0\Infra.DataAccess.AssemblyInfoInputs.cache
+C:\Users\braya\source\repos\Capas+DDDFlex\Infra.DataAccess\obj\Debug\net8.0\Infra.DataAccess.AssemblyInfo.cs
+C:\Users\braya\source\repos\Capas+DDDFlex\Infra.DataAccess\obj\Debug\net8.0\Infra.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\braya\source\repos\Capas+DDDFlex\Infra.DataAccess\obj\Debug\net8.0\Infra.Da.116569D7.Up2Date
+C:\Users\braya\source\repos\Capas+DDDFlex\Infra.DataAccess\obj\Debug\net8.0\Infra.DataAccess.dll
+C:\Users\braya\source\repos\Capas+DDDFlex\Infra.DataAccess\obj\Debug\net8.0\refint\Infra.DataAccess.dll
+C:\Users\braya\source\repos\Capas+DDDFlex\Infra.DataAccess\obj\Debug\net8.0\Infra.DataAccess.pdb
+C:\Users\braya\source\repos\Capas+DDDFlex\Infra.DataAccess\obj\Debug\net8.0\ref\Infra.DataAccess.dll
